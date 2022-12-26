@@ -1,7 +1,7 @@
 # PhotoWidget
 
-###### 2022  
-###### Made with: Unity & C# language
+**Year: 2022  
+Made with: Unity & C# language**
 
 Self made app for displaying photos on the desktop. Made with Unity & C# language.  
 Download at: https://github.com/ramitammela/PhotoWidget/releases/tag/Build
