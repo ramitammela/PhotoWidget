@@ -15,6 +15,7 @@ Download at: https://github.com/ramitammela/PhotoWidget/releases/tag/Build
 ![Icon](https://user-images.githubusercontent.com/33514265/209553746-0bb7c070-c2a3-44a3-9faa-7b569c4ab53f.png)
 
 
-###### Image:
+###### Image: User Interface. Left: Default view. Right: Hover over with mouse to see all the buttons.
+![UI_2](https://user-images.githubusercontent.com/33514265/209664298-088d4e10-aed6-4358-b30b-30ee6c3d9f31.jpg)
 
 ###### Video:
