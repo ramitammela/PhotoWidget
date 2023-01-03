@@ -22,7 +22,8 @@ Download at: https://github.com/ramitammela/PhotoWidget/releases/tag/Build
 
 ##
 
-###### Video: Features (video not added yet)
+###### Video: Features
+https://user-images.githubusercontent.com/33514265/210405456-ad40ea93-9594-48d3-8001-ce9fd0e6975d.mp4
 
 ##
 
